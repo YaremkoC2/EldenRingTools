@@ -1,0 +1,15 @@
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.csproj.AssemblyReference.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.BossList.resources
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.Properties.Resources.resources
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.csproj.GenerateResource.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.csproj.CoreCompileInputs.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\bin\Debug\EldenRingBossChecklist.exe.config
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\bin\Debug\EldenRingBossChecklist.exe
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\bin\Debug\EldenRingBossChecklist.pdb
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.csproj.CopyComplete
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.exe
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingBossChecklist\EldenRingBossChecklist\obj\Debug\EldenRingBossChecklist.pdb
